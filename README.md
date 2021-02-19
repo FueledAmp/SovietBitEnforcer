@@ -1,11 +1,11 @@
-# SovietBitEnforcer
+# Gold Soviet
 A ransomware application created for Windows devices, that encrypts all files, and displays image.
 
 # Legal Disclaimer
 This program was created for informational security awareness, and educational purposes only! I don't advise, or support using this without the proper legal permission. Something I cant control is, what you do with this application is on your own behalf, and so will the legal reprecussions. The Developer is not responsible for any misuse of Damage caused by the program. This is created only to innovate and educate our InfoSec Fanboys. 
 
 
-# What Is The Soviet Bit Enforcer? 
+# What Is The Gold Soviet? 
 This ransomware application ONLY works for operating systems running Windows, after the generated file has been ran on the targeted device, it has the ability to encrypt all files on drive, of your preference, you can also make the Soviet display a message to the device via an Image of your liking. If the said person doesn't comply with the orders given by you, program will slowly start deleting files by hour, so it doesn't just take a simple ransomware approach to it like most, it'll play on the person's character, with this hint of social engineering in the mix which it makes it hard to deny the ransom. Note the program was written by me in 2017, still think it's a cool piece a of work to bring back for moment...
 
 
