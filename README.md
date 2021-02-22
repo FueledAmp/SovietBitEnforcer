@@ -1,5 +1,5 @@
 # Gold Soviet
-A ransomware application created for Windows devices, that encrypts all files, and displays image.
+A ransomware application created for Windows devices, that encrypts all files, and displays message for "victim" to pay a ransom to a BTC address.
 
 # Legal Disclaimer
 This program was created for informational security awareness, and educational purposes only! I don't advise, or support using this without the proper legal permission. Something I cant control is, what you do with this application is on your own behalf, and so will the legal reprecussions. The Developer is not responsible for any misuse of Damage caused by the program. This is created only to innovate and educate our InfoSec Fanboys. 
